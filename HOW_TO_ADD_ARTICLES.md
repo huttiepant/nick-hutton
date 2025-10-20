@@ -34,26 +34,26 @@ python3 convert_article.py your_article.md -o "Category/Essays/Article title.htm
 nano my_pm_thoughts.md
 
 # Convert it
-python3 convert_article.py my_pm_thoughts.md -o "Product management/Essays/My PM thoughts.html"
+python3 convert_article.py my_pm_thoughts.md -o "product-management/essays/my-pm-thoughts.html"
 ```
 
 ### Example 2: Add an About essay
 ```bash
-python3 convert_article.py my_story.md -o "About/Essays/My story.html"
+python3 convert_article.py my_story.md -o "about/essays/my-story.html"
 ```
 
 ### Example 3: Specify a custom page title
 ```bash
-python3 convert_article.py article.md -o "Education/Essays/New essay.html" -t "Custom Page Title"
+python3 convert_article.py article.md -o "education/essays/new-essay.html" -t "Custom Page Title"
 ```
 
 ## Your Categories
 
 Based on your current site structure:
-- `About/Essays/`
-- `Building my first business/Essays/`
-- `Education/Essays/`
-- `Product management/Essays/`
+- `about/essays/`
+- `education/essays/`
+- `product-management/essays/`
+- `products/essays/`
 
 ## Tips
 

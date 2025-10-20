@@ -36,6 +36,7 @@ HTML_TEMPLATE = """<!DOCTYPE html>
     <body>
         <div id>
             <div id="content">
+                <p><a href="{home_path}">← Home</a></p>
 {content}
             </div>
         </div>
@@ -55,6 +56,20 @@ def calculate_stylesheet_path(output_path):
     except ValueError:
         # If on different drives on Windows, use absolute path
         return str(stylesheet)
+
+
+def calculate_home_path(output_path):
+    """Calculate relative path to index.html from the output HTML file."""
+    output_path = Path(output_path).resolve()
+    workspace = Path.cwd()
+    home = workspace / "index.html"
+    
+    try:
+        relative = os.path.relpath(home, output_path.parent)
+        return relative
+    except ValueError:
+        # If on different drives on Windows, use absolute path
+        return str(home)
 
 
 def convert_markdown_to_html(markdown_file, output_file, title=None):
@@ -81,8 +96,9 @@ def convert_markdown_to_html(markdown_file, output_file, title=None):
         if not title:
             title = "Invariably Unstructured"
     
-    # Calculate relative path to stylesheet
+    # Calculate relative path to stylesheet and home
     stylesheet_path = calculate_stylesheet_path(output_file)
+    home_path = calculate_home_path(output_file)
     
     # Indent the HTML content for proper formatting
     indented_content = '\n'.join('                ' + line if line.strip() else '' 
@@ -91,6 +107,7 @@ def convert_markdown_to_html(markdown_file, output_file, title=None):
     # Generate final HTML
     final_html = HTML_TEMPLATE.format(
         stylesheet_path=stylesheet_path,
+        home_path=home_path,
         title=title,
         content=indented_content
     )
