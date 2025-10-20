@@ -1,0 +1,80 @@
+h1 {
+    margin-top: 2%; 
+    margin-right: 10%; 
+    margin-bottom: 2%;
+    margin-left: 10%;
+    font-family: 'Helvetica', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', sans-serif;
+}
+
+h2 {
+    margin-top: 5%; 
+    margin-right: 10%; 
+    margin-bottom: 2%;
+    margin-left: 10%;
+    font-family: 'Helvetica', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', sans-serif;
+}
+
+h3 {
+    margin-top: 2%; 
+    margin-right: 10%; 
+    margin-bottom: 2%;
+    margin-left: 10%;
+    font-family: 'Helvetica', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', sans-serif;
+}
+
+h4 {
+  margin-top: 2%; 
+  margin-right: 10%; 
+  margin-bottom: 2%;
+  margin-left: 10%;
+  font-family: 'Helvetica', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', sans-serif;
+}
+
+p {
+    margin-top: 2%; 
+    margin-right: 10%; 
+    margin-bottom: 2%;
+    margin-left: 10%;
+    font-family: 'Helvetica', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', sans-serif;
+}
+
+li {
+    margin-top: 1%; 
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-bottom: 0%;
+    font-family: 'Helvetica', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', sans-serif;
+}
+
+img {
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+#left {
+    height: 1px;
+    float: left;
+    display: block;
+    min-width: 0;
+    overflow: hidden;
+    width: 200px;
+    margin: 0;
+    padding: 0;
+  }
+
+  #content {
+    margin-top: 15px;
+    float: center;
+    width: 500px;
+  }
+  
+  #content h1, #content h2, #content h3, #content h4 {
+    font-family: "Myriad Pro", "Helvetica Neue", Helvetica;
+  }
+
+
+  
+
+  
