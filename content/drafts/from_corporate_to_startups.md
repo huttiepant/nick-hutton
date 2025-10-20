@@ -1,0 +1,63 @@
+# From Corporate To Startups
+
+## Remember that Shane Warne took 1/150 in his first test match?
+
+It’s a great thing to keep thinking about after your first business winds up. He also used to look like this, which is another great thing to think about.
+
+I started with what I thought was a solid idea, and a drive to get out of the corporate world. It seemed like it couldn’t fail, I mean the numbers and projections I came up with had me holidaying on the moon in just a couple of years.
+
+Unfortunately, numbers and projections are slightly more important for your own business than they are in the corporate world. Put together a nice presentation and solid projections in a large corporate and you’ll probably get called ‘innovative’ and receive a bonus – doesn’t matter what actually happens after this. Put together a nice presentation in your own business, and you’ll sleep well for a night, before realising you have to actually hit those targets.
+
+I had an amazing presentation, and didn’t hit the targets. But what I do have is an enormous amount of lessons of what I’d do again (maybe 10%) and what I’d do differently (90%).
+
+While I did enjoy learning about adult topics like stocks, loans and interest rates and it allowed me to contribute maturely at all the dinner parties I was attending, it didn’t take long for me to become frustrated by the lack of impact I was having in the bank, let alone outside the bank. Given it is a minimum of 40 years that you’ll be required to work, it seemed like a long time to mindlessly rock up to a place to grab a pay cheque.
+
+## Start with a co-founder or 2 or 3
+
+Make sure they’re good people too. Make sure they're willing to work as hard as you plan to. Speaking to humans is an amazing thing, and something you won’t appreciate enough until you’re working by yourself. Plus, the pub on a Friday night is more enjoyable when you have a soldier, or 2 or 3.
+
+## Work out how much money you’re willing to lose on the venture, and put that in a separate account.
+
+This is your start-up capital. I recommend only using this money to get to one of three points:
+
+- Becoming profitable so that will fund the business ongoing;
+- Get to the point where you can raise investor money of $600k+;
+- Close the business.
+
+The fourth option is raise a small amount of money (~$200k) which may sound appealing. However, businesses are expensive to run and an amount like this will leave you stressing over every dollar, stressing about investors and ultimately not taking the chances you need to in business (some things you do won’t work).
+
+## If you’re selling a physical product, leave plenty of margin for the cost of acquiring a customer ($80 minimum, $800 better)
+
+Did you know that it costs money to acquire new customers? Might sound silly, but I assumed that people would roll through the customer door, ya know...just cos.
+
+Even the most revolutionary businesses pay to acquire new users (PayPal paid users $10 to join in the early days. This sounded a lot to me, but if you can acquire customers at $10, you’re onto something special).
+
+Not all businesses can pay to get users, and you’re probably going to have to pay for advertising. This cost is substantial. Not only do you have to think of creative (that is pictures and words) that will convince people to buy your product, you need to work out where to place it (Facebook, Instagram, Billboards etc) and measure how each one goes. Again, neither of those is easy. You’re competing against companies that spend millions on this.
+
+Anyway, from my experience, if you are amazing at both creative and placement (placement is a skill that you may not have thought of – where are you going to hit people that may be interested in your product), you could acquire a customer for $30-$40. That’s if you’re amazing. More than likely you’ll be in the $50 - $250 range.
+
+Factor those costs in when you’re working out the potential profitability of your business.
+
+## Solve a problem, rather than “creating a market”
+
+Make something customers actually want, and would pay for. A hundred people may tell you what a great idea you have, but will they actually pay you? This is a step far greater than you’d think.
+
+A proven method is to find something that really annoys you, or others, and solve that issue.
+
+If you can’t think of anything, sit down every day for a couple of months and write 5 things that annoy you, and 5 new ideas that interest you. I guarantee after two months you’ll have one (minimum) nugget of gold in there to pursue.
+
+## Create a product that targets a niche in the market that’s easy to define
+
+This is for corporate people who assumed marketing and advertising was easy (of which I used to be one).
+
+You can run numbers on a massive market and think “I only have to sell to 0.1% of these people, and I’ll be buying my beach house next week.” Selling to everyone is much harder though. Targeting niche groups has been made so much easier with digital advertising, and you’ll save a lot of money advertising only to niche groups.
+
+## Understand what type of business you’re getting into
+
+Work out exactly what industry your business is in, and learn everything you can about that industry. The skills you’ve learnt in the corporate world, won’t translate to starting a business.
+
+If you’re one of the millions that are blown away by the ‘ease’ in which you can sell products online, remember that this business is marketing and advertising. If this isn’t your background, you’ve got a lot of learning to do. It is definitely possible, but read, listen, watch anything you can on advertising and e-commerce.
+
+## Sell internationally
+
+Australia is not the US, it’s around 13% as big (we’re also 0.3% of the world). While we may feel big, we’re not. Choose something that can go internationally.
