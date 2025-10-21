@@ -2,9 +2,10 @@
 # Converts a markdown file to HTML using front matter.
 # Requires: pip install markdown pyyaml
 
-import sys, re, pathlib
+import sys, re, pathlib, os, textwrap
 import markdown
 import yaml
+from html import escape
 
 ROOT = pathlib.Path(__file__).resolve().parents[1]
 
@@ -40,18 +41,44 @@ def main():
 
     html_body = markdown.markdown(md_body, extensions=["extra", "toc"])
 
-    # simple wrapper; swap to a template later if you like
-    html = f"""<!doctype html>
-<html lang="en"><head>
-<meta charset="utf-8"><title>{title}</title>
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<link rel="stylesheet" href="/stylesheet.css">
-</head><body><main>
-{html_body}
-</main></body></html>"""
-
     out_file = ROOT / output_path
     out_file.parent.mkdir(parents=True, exist_ok=True)
+
+    lang = fm.get("lang", "en-UK")
+    stylesheet_href = os.path.relpath(ROOT / "stylesheet.css", out_file.parent)
+    home_href = os.path.relpath(ROOT / "index.html", out_file.parent)
+
+    analytics_snippet = """<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-169187972-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-169187972-1');
+</script>"""
+
+    body_with_indent = textwrap.indent(html_body.strip(), "                ")
+
+    html = f"""<!DOCTYPE html>
+<html lang="{lang}">
+    <head>
+        {analytics_snippet}
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1" />
+        <link rel="stylesheet" href="{stylesheet_href}" />
+        <title>{escape(title)}</title>
+    </head>
+    <body>
+        <div id>
+            <div id="content">
+                <p><a href="{home_href}">← Home</a></p>
+{body_with_indent}
+            </div>
+        </div>
+    </body>
+</html>"""
+
     out_file.write_text(html, encoding="utf-8")
     print(f"✅ Wrote {out_file.relative_to(ROOT)}")
 
