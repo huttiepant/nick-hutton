@@ -8,10 +8,9 @@ body {
 
 #content {
     box-sizing: border-box;
+    width: min(100%, 720px);
     margin: 0 auto;
-    width: 100%;
-    max-width: 880px;
-    padding: clamp(24px, 6vw, 80px) clamp(32px, 10vw, 120px);
+    padding: clamp(24px, 6vw, 56px) clamp(20px, 6vw, 44px);
 }
 
 h1, h2, h3, h4 {
@@ -42,7 +41,7 @@ h4 {
 }
 
 p {
-    margin: 1.25rem 0;
+    margin: 1.1rem 0;
 }
 
 ul, ol {
@@ -73,6 +72,16 @@ img {
     max-width: 100%;
     height: auto;
     display: block;
+}
+
+@media (min-width: 768px) {
+    #content {
+        width: min(100%, 700px);
+        margin-left: clamp(48px, 11vw, 160px);
+        margin-right: auto;
+        padding-left: clamp(28px, 5vw, 60px);
+        padding-right: clamp(16px, 4vw, 40px);
+    }
 }
 
 #left {
