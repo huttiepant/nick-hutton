@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    padding: clamp(24px, 6vw, 56px) clamp(20px, 6vw, 44px);
     font-family: 'Helvetica', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', sans-serif;
     line-height: 1.7;
     background-color: #ffffff;
@@ -10,7 +11,7 @@ body {
     box-sizing: border-box;
     width: min(100%, 720px);
     margin: 0 auto;
-    padding: clamp(24px, 6vw, 56px) clamp(20px, 6vw, 44px);
+    padding: 0;
 }
 
 h1, h2, h3, h4 {
@@ -79,8 +80,7 @@ img {
         width: min(100%, 700px);
         margin-left: clamp(48px, 11vw, 160px);
         margin-right: auto;
-        padding-left: clamp(28px, 5vw, 60px);
-        padding-right: clamp(16px, 4vw, 40px);
+        padding: 0;
     }
 }
 
