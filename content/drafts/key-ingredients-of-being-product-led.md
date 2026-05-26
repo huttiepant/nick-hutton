@@ -1,6 +1,8 @@
 ---
 title: "Key ingredients of being product-led"
 output_path: "product-management/essays/key-ingredients-of-being-product-led.html"
+back_path: "writing/index.html"
+back_text: "Writing"
 ---
 
 # Key ingredients to being a product-led organisation

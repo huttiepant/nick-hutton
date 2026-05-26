@@ -1,6 +1,8 @@
 ---
 title: "How The Education System Will Look In 30 Years"
 output_path: "education/essays/how-the-education-system-will-look-in-30-years.html"
+back_path: "writing/index.html"
+back_text: "Writing"
 ---
 
 I think the education system will look dramatically different in the coming decades. Yes, I’m idealistic in general, but I don’t think this change is out of the realms of possibility.

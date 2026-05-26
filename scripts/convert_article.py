@@ -46,7 +46,9 @@ def main():
 
     lang = fm.get("lang", "en-UK")
     stylesheet_href = os.path.relpath(ROOT / "stylesheet.css", out_file.parent)
-    home_href = os.path.relpath(ROOT / "index.html", out_file.parent)
+    back_path = fm.get("back_path", "index.html")
+    back_text = fm.get("back_text", "Home")
+    back_href = os.path.relpath(ROOT / back_path, out_file.parent)
 
     analytics_snippet = """<!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-169187972-1"></script>
@@ -72,7 +74,7 @@ def main():
     <body>
         <div id>
             <div id="content">
-                <p><a href="{home_href}">← Home</a></p>
+                <p><a href="{back_href}">← {escape(back_text)}</a></p>
 {body_with_indent}
             </div>
         </div>

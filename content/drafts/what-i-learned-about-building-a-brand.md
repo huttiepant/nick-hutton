@@ -1,6 +1,8 @@
 ---
 title: "What I learned about building a brand (Junkmail)"
 output_path: "about/essays/what-i-learned-about-building-a-brand.html"
+back_path: "building/index.html"
+back_text: "Building"
 ---
 
 # Marketing is easy, right?

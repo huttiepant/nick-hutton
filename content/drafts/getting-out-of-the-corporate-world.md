@@ -1,6 +1,8 @@
 ---
 title: "Getting out of the corporate world"
 output_path: "about/essays/getting-out-of-the-corporate-world.html"
+back_path: "writing/index.html"
+back_text: "Writing"
 ---
 
 # The corporate world is absolutely not all bad

@@ -1,6 +1,8 @@
 ---
 title: "Getting into the corporate world"
 output_path: "about/essays/getting-into-the-corporate-world.html"
+back_path: "writing/index.html"
+back_text: "Writing"
 ---
 
 # It’s more a story of ‘ending up’ in the corporate world

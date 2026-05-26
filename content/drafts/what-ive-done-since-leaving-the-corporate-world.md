@@ -1,6 +1,8 @@
 ---
 title: "What I've done since leaving the corporate world (2020)"
 output_path: "about/essays/what-ive-done-since-leaving-the-corporate-world.html"
+back_path: "writing/index.html"
+back_text: "Writing"
 ---
 
 # What I’ve Done Since Leaving The Corporate World

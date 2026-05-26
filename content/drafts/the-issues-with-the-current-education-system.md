@@ -1,6 +1,8 @@
 ---
 title: "The Issues With The Current Education System"
 output_path: "education/essays/issues-with-the-current-education-system.html"
+back_path: "writing/index.html"
+back_text: "Writing"
 ---
 
 # The Issues With The Current Education System

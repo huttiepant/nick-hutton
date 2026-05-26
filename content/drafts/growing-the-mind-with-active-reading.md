@@ -1,6 +1,8 @@
 ---
 title: "Growing The Mind With Active Reading"
 output_path: "education/essays/growing-the-mind-with-active-reading.html"
+back_path: "writing/index.html"
+back_text: "Writing"
 ---
 
 All reading is great, yes. But not all reading is equal. **Active Reading** is the most challenging form of reading and it’s the one that can have the greatest impact on your life. It’s the type of reading you can only do while sitting upright, in a quiet place with access to all mental faculties (i.e. not drunk). If the deadlift is considered the ultimate full-body exercise for growing muscles, Active Reading is the ultimate full-brain exercise for growing the mind.

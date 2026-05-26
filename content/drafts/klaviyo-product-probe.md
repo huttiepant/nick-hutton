@@ -1,6 +1,8 @@
 ---
 title: "Klaviyo: Product Probe"
-output_path: "product-management/essays/klaviyo-product-probe.html"
+output_path: "products/essays/klaviyo-product-probe.html"
+back_path: "writing/index.html"
+back_text: "Writing"
 ---
 
 ## Klaviyo

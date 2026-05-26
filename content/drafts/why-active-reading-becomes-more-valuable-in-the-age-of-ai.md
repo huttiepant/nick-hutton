@@ -1,6 +1,8 @@
 ---
 title: "Why Active Reading Becomes More Valuable in the Age of AI (feat. Hope for Humankind)"
 output_path: "education/essays/why-active-reading-becomes-more-valuable-in-the-age-of-ai.html"
+back_path: "writing/index.html"
+back_text: "Writing"
 ---
 
 AI is amazing—it’s led to detection of breast cancer up to 5 years earlier than previously possible; it’s enabled flood forecasting up to 7 days earlier; you can start a new software business just by typing text. AI is also terrifying—it can do the work of graduate employees around 100 times quicker and people around the globe are (rightfully) wondering what is going to be left for them to do.

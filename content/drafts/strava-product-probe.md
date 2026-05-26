@@ -1,6 +1,8 @@
 ---
 title: "Strava: Product Probe"
 output_path: "products/essays/strava-product-probe.html"
+back_path: "writing/index.html"
+back_text: "Writing"
 ---
 
 # Strava: Product Probe

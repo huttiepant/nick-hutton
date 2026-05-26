@@ -1,6 +1,15 @@
+---
+title: "From Corporate To Startups"
+output_path: "about/essays/from-corporate-to-startups.html"
+back_path: "writing/index.html"
+back_text: "Writing"
+---
+
 # From Corporate To Startups
 
 ## Remember that Shane Warne took 1/150 in his first test match?
+
+![Warnie in his youth](../../assets/images/shane-warne.jpg)
 
 It’s a great thing to keep thinking about after your first business winds up. He also used to look like this, which is another great thing to think about.
 

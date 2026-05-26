@@ -1,6 +1,8 @@
 ---
 title: "Duolingo and The Big Bet Loop"
 output_path: "products/essays/duolingo-and-the-big-bet-loop.html"
+back_path: "writing/index.html"
+back_text: "Writing"
 ---
 
 Out of the top 5,000 most valuable companies in the world, only one has its main revenue source as an educational product direct to the learner (D2L).

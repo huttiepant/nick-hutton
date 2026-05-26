@@ -1,6 +1,8 @@
 ---
 title: "How We Learn"
 output_path: "education/essays/how-we-learn.html"
+back_path: "writing/index.html"
+back_text: "Writing"
 ---
 
 Increasing the speed with which we learn is the highest-leverage activity we can do. Every decision we make, every experience we have; they’re all impacted by our knowledge and understanding of the world, which has come from learning.

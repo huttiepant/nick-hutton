@@ -1,6 +1,8 @@
 ---
 title: "Key skills of being a PM"
 output_path: "product-management/essays/key-skills-of-a-pm.html"
+back_path: "writing/index.html"
+back_text: "Writing"
 ---
 
 # Key skills of a PM

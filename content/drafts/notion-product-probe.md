@@ -1,6 +1,8 @@
 ---
 title: "Notion: Product Probe"
 output_path: "products/essays/notion-product-probe.html"
+back_path: "writing/index.html"
+back_text: "Writing"
 ---
 
 # Notion: Product Probe
