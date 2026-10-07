@@ -120,3 +120,77 @@ img {
     margin: 0;
     padding: 0;
 }
+
+/* building/active-thinking */
+.now-lead {
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 1.2rem;
+    line-height: 1.45;
+}
+
+.now-principle {
+    margin: 2rem 0;
+    padding-left: 1.1rem;
+    border-left: 3px solid var(--link-color);
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-size: 1.25rem;
+    line-height: 1.45;
+}
+
+.project {
+    margin: 2rem 0;
+}
+
+.project h3 {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 0.2rem;
+}
+
+.project-tagline {
+    margin: 0 0 0.5rem;
+    font-style: italic;
+    color: var(--muted-color);
+}
+
+.icon {
+    width: 1.1em;
+    height: 1.1em;
+    flex: none;
+    fill: none;
+    stroke: var(--link-color);
+    stroke-width: 1.5;
+    stroke-linecap: round;
+    stroke-linejoin: round;
+}
+
+.status {
+    margin-top: 0.5rem;
+    font-size: 0.85rem;
+    letter-spacing: 0.04em;
+    text-transform: uppercase;
+    color: var(--muted-color);
+}
+
+.status a {
+    text-transform: none;
+    letter-spacing: 0;
+    font-size: 1rem;
+}
+
+.now-question {
+    margin: 2.5rem 0;
+    padding: 1.25rem 1.4rem;
+    background: #f6f6f4;
+    border-radius: 4px;
+}
+
+.now-question h3 {
+    margin-top: 0;
+}
+
+.now-sign {
+    font-style: italic;
+    color: var(--muted-color);
+}
